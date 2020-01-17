@@ -41,7 +41,7 @@ Your browser does not support the audio tag
 <li>\( 4^\frac{1}{2} \) <input data-correct="2" /></li>
 <li>\( (\frac{-125}{27})^\tfrac{-2}{3} \) <input data-correct="9/25" /></li>
 <li>\( 36^\frac{1}{2} \) <input data-correct="6" /></li>
-<li>\( 10^\frac{1}{2} x 10^\frac{1}{2} \) <input data-correct="10" < ol>
+<li>\( 10^\frac{1}{2} x 10^\frac{1}{2} \) <input data-correct="10" < ol> /></li>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
 <script id="rendered-js">
 console.clear();
